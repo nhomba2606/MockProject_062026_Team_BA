@@ -112,47 +112,48 @@ MockProject_062026_Team_BA/
 
 ## Sprint & Milestone Plan
 
-> 5 Milestones · 10 Sprints · 2 weeks per sprint · ~5 months total
+> 4 Milestones · 4 Weeks · 1 week per milestone · 1 month total (Jun 24 – Jul 24, 2026)
 
-### Milestone 1 — Project Foundation `M1`
-**Duration:** Sprint 1–2 | **Goal:** Establish project base, understand business context
+### Milestone 1 — Project Foundation `M1` · `Week 1`
+**Dates:** Jun 24 – Jun 30 | **Goal:** Establish project base, onboard team, identify stakeholders
 
-| Sprint | Key Activities | Deliverables |
+| # | Key Activities | Deliverables |
 |---|---|---|
-| S1 | Kickoff, stakeholder identification, domain research | Project Charter, Stakeholder Register |
-| S2 | Business process mapping, glossary creation | Business Glossary, As-Is Process Diagrams |
+| 1 | Project setup (GitHub, Drive, Gmail), team onboarding | Repo structure, `.env`, branch protection |
+| 2 | Kickoff meeting, domain research (U.S. nursing home) | Meeting Minutes Day 1 |
+| 3 | Stakeholder identification & register | Stakeholder Register |
+| 4 | Business glossary kickoff | Business Glossary (draft) |
 
-### Milestone 2 — Requirements Gathering `M2`
-**Duration:** Sprint 3–4 | **Goal:** Elicit and document business requirements
+### Milestone 2 — Requirements Gathering `M2` · `Week 2`
+**Dates:** Jul 1 – Jul 7 | **Goal:** Elicit and document business requirements
 
-| Sprint | Key Activities | Deliverables |
+| # | Key Activities | Deliverables |
 |---|---|---|
-| S3 | Requirements elicitation (interviews, workshops) | Meeting Notes, Elicitation Report |
-| S4 | BRD drafting, stakeholder review | BRD v1.0 (Final) |
+| 1 | Stakeholder interviews, requirements workshops | Meeting Notes, Elicitation Report |
+| 2 | As-Is business process mapping | As-Is Process Diagrams (BPMN) |
+| 3 | BRD drafting (all sections) | BRD v0.1 |
+| 4 | Stakeholder review & sign-off cycle | BRD v1.0 (Final) |
 
-### Milestone 3 — Requirements Analysis `M3`
-**Duration:** Sprint 5–6 | **Goal:** Break down requirements into actionable specifications
+### Milestone 3 — Requirements Analysis & Design `M3` · `Week 3`
+**Dates:** Jul 8 – Jul 14 | **Goal:** Break requirements into specs, UI flows, and data models
 
-| Sprint | Key Activities | Deliverables |
+| # | Key Activities | Deliverables |
 |---|---|---|
-| S5 | Use case modeling, user story writing | Use Case Diagrams, User Stories (backlog) |
-| S6 | SRS drafting, acceptance criteria definition | SRS v1.0, Acceptance Criteria |
+| 1 | Use case modeling & descriptions | Use Case Diagrams, UC Descriptions |
+| 2 | User story writing with acceptance criteria | User Stories Backlog |
+| 3 | SRS drafting (functional + non-functional) | SRS v1.0 |
+| 4 | Wireframe creation & UI flow documentation | Wireframes, Navigation Flows |
+| 5 | Data dictionary & entity definitions | Data Dictionary |
 
-### Milestone 4 — Design Specification `M4`
-**Duration:** Sprint 7–8 | **Goal:** Produce UI specs and data models
+### Milestone 4 — Review & Sign-off `M4` · `Week 4`
+**Dates:** Jul 15 – Jul 24 | **Goal:** QA, traceability, final package delivery
 
-| Sprint | Key Activities | Deliverables |
+| # | Key Activities | Deliverables |
 |---|---|---|
-| S7 | Wireframe creation, UI flow documentation | Wireframes, Navigation Flows |
-| S8 | Data dictionary, non-functional requirements | Data Dictionary, NFR Specification |
-
-### Milestone 5 — Review & Sign-off `M5`
-**Duration:** Sprint 9–10 | **Goal:** QA, traceability, final package
-
-| Sprint | Key Activities | Deliverables |
-|---|---|---|
-| S9 | Test case writing, RTM creation | Test Cases, RTM v1.0 |
-| S10 | Final review, document packaging, retrospective | Final Document Package, Retrospective Report |
+| 1 | Test case writing (functional + edge cases) | Test Cases |
+| 2 | Requirements Traceability Matrix (RTM) | RTM v1.0 |
+| 3 | Final peer review & BA Lead sign-off | Review Report |
+| 4 | Document packaging & retrospective | Final Document Package, Retrospective Report |
 
 ---
 
