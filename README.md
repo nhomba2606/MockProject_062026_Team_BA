@@ -114,7 +114,7 @@ MockProject_062026_Team_BA/
 
 > 4 Milestones · 4 Weeks · 1 week per milestone · 1 month total (Jun 24 – Jul 24, 2026)
 
-### Milestone 1 — Project Foundation `M1` · `Week 1`
+### Milestone 1 — Project Foundation `M1` · `Sprint 1`
 **Dates:** Jun 24 – Jun 30 | **Goal:** Establish project base, onboard team, identify stakeholders
 
 | # | Key Activities | Deliverables |
@@ -124,7 +124,7 @@ MockProject_062026_Team_BA/
 | 3 | Stakeholder identification & register | Stakeholder Register |
 | 4 | Business glossary kickoff | Business Glossary (draft) |
 
-### Milestone 2 — Requirements Gathering `M2` · `Week 2`
+### Milestone 2 — Requirements Gathering `M2` · `Sprint 2`
 **Dates:** Jul 1 – Jul 7 | **Goal:** Elicit and document business requirements
 
 | # | Key Activities | Deliverables |
@@ -134,7 +134,7 @@ MockProject_062026_Team_BA/
 | 3 | BRD drafting (all sections) | BRD v0.1 |
 | 4 | Stakeholder review & sign-off cycle | BRD v1.0 (Final) |
 
-### Milestone 3 — Requirements Analysis & Design `M3` · `Week 3`
+### Milestone 3 — Requirements Analysis & Design `M3` · `Sprint 3`
 **Dates:** Jul 8 – Jul 14 | **Goal:** Break requirements into specs, UI flows, and data models
 
 | # | Key Activities | Deliverables |
@@ -145,7 +145,7 @@ MockProject_062026_Team_BA/
 | 4 | Wireframe creation & UI flow documentation | Wireframes, Navigation Flows |
 | 5 | Data dictionary & entity definitions | Data Dictionary |
 
-### Milestone 4 — Review & Sign-off `M4` · `Week 4`
+### Milestone 4 — Review & Sign-off `M4` · `Sprint 4`
 **Dates:** Jul 15 – Jul 24 | **Goal:** QA, traceability, final package delivery
 
 | # | Key Activities | Deliverables |
