@@ -46,11 +46,10 @@ This simulation covers the full BA lifecycle — from initial stakeholder discov
 | Name | Role | GitHub Handle |
 |---|---|---|
 | Kiều Quang Vân | BA Lead | `@unkaidev` |
-| Phan Thành Lộc | Fresher BA | `@phan-thanh-loc` |
-| Huỳnh Ngọc Thiện | Fresher BA | `@huynh-ngoc-thien` |
-| Nguyễn Đức Phương | Fresher BA | `@nguyen-duc-phuong` |
-| Tô Duy Bắc | Fresher BA | `@to-duy-bac` |
-| Nguyễn Thị Phương Thảo | Fresher BA | `@nguyen-thi-phuong-thao` |
+| Phan Thành Lộc | Fresher BA | `@Codename-Lok` |
+| Huỳnh Ngọc Thiện | Fresher BA | `@thienhn22git-cloud` |
+| Tô Duy Bắc | Fresher BA | `@duybac210` |
+| Nguyễn Thị Phương Thảo | Fresher BA (Deputy Lead) | `@nickhocbaicuathao-lab` |
 
 **BA Lead responsibilities:** PR approval, milestone sign-off, quality gate enforcement.
 **Fresher BA responsibilities:** artifact drafting, peer review, issue tracking.
