@@ -158,6 +158,10 @@ MockProject_062026_Team_BA/
 
 ## GitHub Workflow
 
+> 📌 **New here?** Read the [Contributing Guide](CONTRIBUTING.md) first — a step-by-step
+> recipe for opening a correct Pull Request and **closing your issue correctly** (PRs
+> merge into `develop`, so issues must be closed manually).
+
 ### Golden Rule
 
 > **No document merges to `main` without BA Lead approval.**
