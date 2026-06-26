@@ -74,7 +74,10 @@ Examples:
 
 ## 3. Do the work & commit
 
-Save documents in the **correct `docs/` subfolder** (see README → *Repository Structure*).
+Save documents in the **correct `docs/` zone** — personal drafts in
+`docs/<your-github-login>/dayN/`, finalized deliverables in `docs/share/<artifact>/`.
+See [docs/README.md](docs/README.md) and the rule
+[.claude/rules/docs-storage.md](.claude/rules/docs-storage.md).
 
 **Commit format:** `<type>(<scope>): <short description>`
 

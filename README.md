@@ -87,16 +87,20 @@ MockProject_062026_Team_BA/
 │       ├── user-story.md
 │       └── review-request.md
 ├── docs/
-│   ├── 01-project-charter/
-│   ├── 02-stakeholder-register/
-│   ├── 03-brd/
-│   ├── 04-srs/
-│   ├── 05-user-stories/
-│   ├── 06-use-cases/
-│   ├── 07-process-diagrams/
-│   ├── 08-wireframes/
-│   ├── 09-data-dictionary/
-│   └── 10-test-cases/
+│   ├── README.md               ← document storage guide
+│   ├── <github-login>/         ← one per member: personal drafts & daily work
+│   │   └── dayN/...
+│   └── share/                  ← official, reviewed deliverables
+│       ├── charter/
+│       ├── stakeholder-register/
+│       ├── brd/
+│       ├── srs/
+│       ├── user-stories/
+│       ├── use-cases/
+│       ├── process-diagrams/
+│       ├── wireframes/
+│       ├── data-dictionary/
+│       └── test-cases/
 ├── rtm/
 │   └── requirements-traceability-matrix.xlsx
 ├── scripts/
