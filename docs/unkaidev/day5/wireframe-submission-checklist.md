@@ -42,12 +42,12 @@
 | Screen ID | Screen Name | PNG | PDF | Note |
 |---|---|:---:|:---:|---|
 | M3-US-02 | Med-Pass — Barcode Scan | ✅ | ✅ | "Advanced Verification Web" |
-| M3-US-03 | Verification Override | ❌ | ❌ | Not submitted |
+| M3-US-03 | Verification Override | — | ✅ | "Verification Override WEB.pdf" (day5) |
 | M3-US-04 | Medication Administration Record (MAR) | ❌ | ❌ | Not submitted — covered by Codename-Lok |
-| M3-US-06 | Medication Order List | ❌ | ❌ | Not submitted |
+| M3-US-06 | Medication Order List | — | ✅ | "Medication Order List WEB.pdf" (day5) |
 | M7-US-01 | Report New Incident | ✅ | ✅ | "Incident Reporting Web" |
 
-**Result: 2 / 5** — missing M3-US-03, M3-US-04, M3-US-06
+**Result: 4 / 5** — M3-US-04 covered by Codename-Lok
 
 > ⚠️ **Note:** Thien submitted 3 extra screens outside MVP scope: Pharmacy Integration Web, Smart Med-Pass Scheduling Web, Wound Management Web. These are saved in `docs/share/wireframes/extra/` for reference.
 
@@ -87,22 +87,20 @@
 |---|:---:|:---:|---|
 | unkaidev | 7 | 7 | — |
 | Codename-Lok | 5 | 4 | M2-US-06 *(delayed)* |
-| thienhn22git-cloud | 5 | 2 | M3-US-03, M3-US-04, M3-US-06 *(fixing)* |
+| thienhn22git-cloud | 5 | 4 | M3-US-04 *(covered by Codename-Lok)* |
 | duybac210 | 5 | 5 | — |
 | nickhocbaicuathao-lab | 5 | 5 | — |
-| **Total** | **27** | **23** | **4 screens** |
+| **Total** | **27** | **25** | **2 screens** |
 
 ### Màn hình thiếu cần bổ sung
 
 | Screen ID | Screen Name | Responsible | Status |
 |---|---|---|---|
 | M2-US-06 | Task Completion Log | Codename-Lok | Delayed |
-| M3-US-03 | Verification Override | thienhn22git-cloud | In progress |
 | M3-US-04 | MAR (Medication Administration Record) | thienhn22git-cloud | Covered by Codename-Lok |
-| M3-US-06 | Medication Order List | thienhn22git-cloud | In progress |
 
-> M3-US-04 đã có file từ Codename-Lok (`wireframe_M3-US-04_mar_web.pdf`). Còn thiếu thực tế: **3 screens** (M2-US-06, M3-US-03, M3-US-06).
+> M3-US-03 và M3-US-06 đã được Thiện bổ sung (day5 PDF). M3-US-04 có file từ Codename-Lok (`wireframe_M3-US-04_mar_web.pdf`). Còn thiếu thực tế: **1 screen** (M2-US-06).
 
 ---
 
-*Last updated: 2026-06-30 · Branch: `docs/s1/unkaidev-wireframe-self-checklist`*
+*Last updated: 2026-06-30 (rev 2 — thienhn M3-US-03 & M3-US-06 added) · Branch: `docs/s1/unkaidev-wireframe-self-checklist`*
