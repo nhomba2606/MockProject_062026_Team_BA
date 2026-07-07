@@ -15,6 +15,6 @@
 - Team documentation
 
 ## Progress
-- [ ] Read team template
-- [ ] Understand format
-- [ ] Practice writing sample user story
+- [x] Read team template
+- [x] Understand format
+- [x] Practice writing sample user story
