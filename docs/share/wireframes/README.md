@@ -12,18 +12,26 @@ This folder holds two things:
 
 | Version | Folder | Contents | Status | Date |
 |---|---|---|---|---|
-| v1.0 | [`v1.0/`](v1.0/) | 45 screen captures, `SC_001`–`SC_045` | **Baseline (Pre-CR) — CURRENT** | 2026-07-09 |
+| v0.9 | [`v0.9/`](v0.9/) | 44 screen captures, `SC_001`–`SC_044` (no `SC_045` yet) | Draft (Pre-Baseline) — superseded | 2026-07-02 |
+| v1.0 | [`v1.0/`](v1.0/) | 45 screen captures, `SC_001`–`SC_045` | Baseline (Pre-CR) — superseded | 2026-07-09 |
+| v1.1 | [`v1.1/`](v1.1/) | 47 screen captures, `SC_001`–`SC_047` | **Baseline (Post-CR) — CURRENT** | 2026-07-13 |
 
 ## Reading order
 
-- **Always cite `v1.0/`** as the current full-screen baseline unless you are
+- **Always cite `v1.1/`** as the current full-screen baseline unless you are
   specifically researching document history.
 - The per-module folders (`admin/`, `M1/`, ...) remain the source of truth for
-  an individual screen's latest wireframe; `v1.0/` is a point-in-time snapshot
-  of all screens together, useful for CR impact analysis and traceability.
-- When a Change Request lands against the UI, add a `v1.1/` folder (Baseline,
-  Post-CR) with the updated screen set rather than editing `v1.0/` in place —
-  this preserves the pre-CR baseline for audit/traceability.
+  an individual screen's latest wireframe; each versioned folder is a
+  point-in-time snapshot of all screens together, useful for CR impact
+  analysis and traceability.
+- `v1.1` is the Post-CR update for the Holiday Configuration change request:
+  it adds `SC_046`/`SC_047` and refreshes 10 screens whose content changed
+  (`SC_007`, `SC_009`, `SC_013`, `SC_032`–`SC_034`, `SC_039`, `SC_040`,
+  `SC_043`, `SC_044`); the remaining screens are unchanged from `v1.0` and
+  carried forward so `v1.1` stays a complete, self-contained set.
+- When the next Change Request lands against the UI, add a `v1.2/` folder
+  (Baseline, Post-CR) with the updated screen set rather than editing `v1.1/`
+  in place — this preserves each prior baseline for audit/traceability.
 
 ## Naming convention
 

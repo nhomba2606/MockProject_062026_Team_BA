@@ -8,12 +8,19 @@ unambiguous.
 
 | Version | Folder | File | Status | Date |
 |---|---|---|---|---|
-| v1.0 | [`v1.0/`](v1.0/) | `png/nhms_e2e_workflow.png` | **Baseline (Pre-CR) — CURRENT** | 2026-07-01 |
+| v0.9 | [`v0.9/`](v0.9/) | `png/nhms_e2e_workflow_v2_sc.png` | Draft (Pre-Baseline) — superseded | 2026-07-02 |
+| v1.0 | [`v1.0/`](v1.0/) | `png/nhms_e2e_workflow_v2.png` | **Baseline (Pre-CR) — CURRENT** | 2026-07-10 |
 
 ## Reading order
 
-- **Always cite `v1.0/png/nhms_e2e_workflow.png`** as the current end-to-end
-  workflow diagram unless you are specifically researching document history.
+- **Always cite `v1.0/png/nhms_e2e_workflow_v2.png`** as the current
+  end-to-end workflow diagram unless you are specifically researching
+  document history.
+- `v0.9` is an earlier discovery-stage export with SC screen-code
+  annotations overlaid; `v1.0` is the clean baseline export that supersedes
+  it. An older, unrelated `v1.0` export from the initial BPD commit was
+  replaced by this `v2` diagram, since it is the version actually carried
+  through the Draft → Baseline lifecycle in `docs/<login>/` staging.
 - The `png/` subfolder holds the exported raster; if a source file (e.g.
   `.bpmn`, `.drawio`) is added later, it lives alongside `png/` in the same
   version folder.
