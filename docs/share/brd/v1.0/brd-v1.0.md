@@ -1,5 +1,7 @@
 # NHMS — Phase 1 Discovery Findings (Final)
 > Version: 1.0 · Date: 2026-06-29 · Status: **CONFIRMED — Ready for Phase 2**
+>
+> ✅ **Baseline v1.0 (Pre-CR) — CURRENT, canonical BRD version.** Earlier drafts ([`v0.8`](../v0.8/brd-v0.8-business-analysis.md), [`v0.9`](../v0.9/brd-v0.9-discovery-day4.docx)) are superseded and kept for history only. No Post-CR baseline (v1.1) exists yet.
 
 ---
 

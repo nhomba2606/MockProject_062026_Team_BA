@@ -1,6 +1,8 @@
 # Business Analysis Document (BAD)
 ## Nursing Home Management System (NHMS)
 
+> ⚠️ **Draft v0.8 (Pre-Baseline) — SUPERSEDED** by [`v1.0/brd-v1.0.md`](../v1.0/brd-v1.0.md) (Baseline v1.0, Pre-CR, confirmed 2026-06-29). Kept for history only — do not cite as current.
+>
 > **Stage:** Discovery / Requirements Analysis
 > **Document type:** Business Analysis Document (precursor to BRD)
 > **Status:** Draft
